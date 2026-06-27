@@ -5,15 +5,6 @@
 
 </div>
 
-<pre style="color: #00ff00; background: #000; padding: 1em; border-radius: 4px; font-family: 'Courier New', monospace; font-size: 14px; line-height: 1.4;">
-ubuntu@fenst4r-vps-1:~$ trans en:ru "I just love coding to distract myself from the problems in my life."
-I just love coding to distract myself from the problems in my life.
-
-Мне просто нравится программировать, чтобы отвлечься от проблем в моей жизни.
-(Mne prosto nravitsya programmirovat', chtoby otvlech'sya ot problem v moyey zhizni.)
-ubuntu@fenst4r-vps-1:~$
-</pre>
-
 <pre>
 Я знаю что программирую всякий бред, но если вы нашли что-то полезное для себя, то я очень этому рад ;)
 </pre>
