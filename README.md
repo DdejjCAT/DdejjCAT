@@ -13,3 +13,7 @@ I just love coding to distract myself from the problems in my life.
 (Mne prosto nravitsya programmirovat', chtoby otvlech'sya ot problem v moyey zhizni.)
 ubuntu@fenst4r-vps-1:~$
 </pre>
+
+<pre>
+Я знаю что программирую всякий бред, но если вы нашли что-то ползеное для себя, то я очень этому рад ;)
+</pre>
